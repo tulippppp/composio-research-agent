@@ -257,7 +257,7 @@ The system is designed to scale to the full 100-application dataset by expanding
 - Source code
 
 ---
-live html case study 
+Live html case study: 
 https://quiet-sawine-b72706.netlify.app/
 
 Built with ❤️ for the **Composio AI Product Operations Internship Assignment**.
